@@ -1,6 +1,9 @@
 # ordermovie
 
-A new Flutter project.
+This flutter project is about the idea that we scan a QR code on our seats,
+using the OrderMovie app, and place our food orders in the cinema hall,
+without rushing in the interval and as per our convience. The application
+also has user authentication using Firebase authentication.
 
 ## Getting Started
 
