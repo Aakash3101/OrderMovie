@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1006701701159",
+    "firebase_url": "https://dbmsproject-c35be.firebaseio.com",
+    "project_id": "dbmsproject-c35be",
+    "storage_bucket": "dbmsproject-c35be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006701701159:android:651f55d60f7ccf06b94602",
+        "android_client_info": {
+          "package_name": "com.example.ordermovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006701701159-h4vrfa8pvb566h0cf7dmp12k6aercdr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTCRnUx9Eh6p4REaLy9bZcNXk4F1R2020"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006701701159-h4vrfa8pvb566h0cf7dmp12k6aercdr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
